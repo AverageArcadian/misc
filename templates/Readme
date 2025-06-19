@@ -1,1 +1,14 @@
-Change as needed, enjoy.
+Greetings, 
+This is free, so edit it yourself, and enjoy
+
+These are the things I'd look into updating according to yuor needs:
+- Drafting standard (currently AS1100-1992)
+- Add your companyy name or logo to black area in title block
+- Confirm your font meets your drafting standard (I am using Franklin Gothic)
+
+Also:
+- when adding an addition to the revision table just double click the table and press "add addition" and it will automatically update the revision sequence in teh title block
+- some properties are linked to model, some are manually inputted (finish, document type, drawing number)
+
+Yours faithfully, 
+@averagearcadian
